@@ -2141,6 +2141,15 @@
 			width: 75%;
 		}
 
+		#team header.major:after {
+			background: #5480f1;
+			content: '';
+			display: inline-block;
+			height: 0.2em;
+			max-width: 20em;
+			width: 75%;
+		}
+
 	footer.major {
 		margin: 4em 0 0 0;
 	}
@@ -3085,6 +3094,10 @@
 		padding: 6em 0 4em 0;
 	}
 
+		#subjects {
+			background: #303030;
+		}
+
 		.wrapper.style2 {
 			background: #5480f1;
 		}
@@ -3121,7 +3134,7 @@
 			.wrapper.style2 input[type="button"].special,
 			.wrapper.style2 .button.special {
 				background-color: #ffffff;
-				color: #e44c65 !important;
+				color: #5480f1 !important;
 			}
 
 				.wrapper.style2 input[type="submit"].special:hover, .wrapper.style2 input[type="submit"].special:active,
