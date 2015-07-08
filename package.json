@@ -1,0 +1,29 @@
+{
+  "name": "Skyridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "compression": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-yx-wu/skyridge.git"
+  },
+  "author": "Michael Wu",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/michael-yx-wu/skyridge/issues"
+  },
+  "description": "A site for publicizing services offered by Skyridge LLC",
+  "private": "true"
+}
