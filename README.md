@@ -5,7 +5,7 @@ A simple website for Skyridge LLC.
 
 In a terminal window, do the following:
 
-* Install homebrew if you don't already have it on machine
+* Install homebrew (if you don't already have it on your machine)
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
