@@ -18,7 +18,7 @@ brew install node
 ```
 * Install dependencies
 ```
-node install
+npm install
 ```
 * Start the server
 ```
